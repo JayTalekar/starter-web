@@ -23,6 +23,7 @@ file system.
 
 ## How to Contribute
 
+Please fork this repositry and then issue Pull Request for review.
 
 ###Copyright
 
